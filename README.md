@@ -10,12 +10,13 @@ PAMA
 
 ## Checkpoints
 
-​		Please download the pre-trained checkpoints at [google drive](https://drive.google.com/file/d/1rPB_qnelVVSad6CtadmhRFi0PMI_RKdy/view?usp=sharing) and put them in ./checkpoints. 
-​		Here we also provide some other pre-trained results with different loss weights at [google drive]()
+Please download the pre-trained checkpoints at [google drive](https://drive.google.com/file/d/1rPB_qnelVVSad6CtadmhRFi0PMI_RKdy/view?usp=sharing) and put them in ./checkpoints. 
+
+Here we also provide some other pre-trained results with different loss weights at [google drive]()
 
 ## Training
 
-​		The training set consists of two parts. We use WikiArt as style set and COCO2014 as content set.
+The training set consists of two parts. We use WikiArt as style set and COCO2014 as content set.
 
 ```python
 python main.py train --lr 1e-4 --content_folder ./COCO2014 --style_folder ./WikiArt
