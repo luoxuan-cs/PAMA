@@ -15,7 +15,7 @@ PAMA
 
 ## Training
 
-​		The training set consists of two parts. Style set is WikiArt collected from WIKIART and content set is COCO2014.
+​		The training set consists of two parts. We use WikiArt as style set and COCO2014 as content set.
 
 ```python
 python main.py train
