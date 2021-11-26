@@ -17,14 +17,23 @@ PAMA
 ​		The training set consists of two parts. We use WikiArt as style set and COCO2014 as content set.
 
 ```python
-python main.py train
+python main.py train --lr 1e-4 --content_folder ./COCO2014 --style_folder ./WikiArt
 ```
 
 ## Testing
 
+To test the code, you need to specify the path to the image style and content. 
+
 ```python
-python main.py eval
+python main.py eval --content ./content/1.jpg --style ./style/1.jpg
 ```
+
+If you want to do a batch operation for all pictures under the folder at one time, please execute the following code.
+
+```python
+python main.py eval -- run_folder True --content ./content --style ./style
+```
+
 
 ## Results Presentation
 
