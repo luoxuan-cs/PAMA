@@ -6,8 +6,7 @@ PAMA
 
 * python 3.6
 * pytorch 1.8.0
-* PIL, numpy, scipy
-* tqdm
+* PIL, numpy, matplotlib
 
 ## Checkpoints
 
