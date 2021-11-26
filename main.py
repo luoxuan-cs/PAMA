@@ -164,6 +164,4 @@ def main():
         eval(args)
 
 if __name__ == "__main__":
-    print(torch.cuda.device_count())
-    os.environ['CUDA_VISIBLE_DEVICES'] = '0'
     main()
