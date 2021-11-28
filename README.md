@@ -69,6 +69,7 @@ python main.py eval --run_folder True --content ./content/ --style ./style/
 
 ![13-32-style](./README.assets/13-32-style.png)
 
-#### Others
+#### Other Results
 
-![5_6](./README.assets/5_6.png)
+![other](/Users/lx/Desktop/Database/Codes/github/PAMA/README.assets/other.png)
+
