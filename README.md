@@ -71,5 +71,5 @@ python main.py eval --run_folder True --content ./content/ --style ./style/
 
 #### Other Results
 
-![other](/Users/lx/Desktop/Database/Codes/github/PAMA/README.assets/other.png)
+![other](./README.assets/other.png)
 
