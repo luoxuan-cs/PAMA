@@ -12,6 +12,7 @@ from utils import DEVICE, train_transform, test_transform, FlatFolderDataset, In
 Image.MAX_IMAGE_PIXELS = None  
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
+DEVICE = 'cpu'
 
 def train(args):
     logging.basicConfig(filename='training.log',
