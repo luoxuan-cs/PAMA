@@ -1,7 +1,7 @@
 PAMA
 ================
 ​		This is the Pytorch implementation of Progressive Attentional Manifold Alignment.
-​		1/14/2022 Thanks to github user (AK391)[https://github.com/AK391] for making a [web demo](https://huggingface.co/spaces/akhaliq/PAMA) for PAMA.
+​		1/14/2022 Thanks to github user [AK391](https://github.com/AK391) for making a [web demo](https://huggingface.co/spaces/akhaliq/PAMA) for PAMA.
 
 
 ## Requirements
