@@ -19,9 +19,9 @@ Here we also provide some other pre-trained results with different loss weights:
 
 | Type             | Loss            | Download             |
 | ---------------- | --------------- | -------------------- |
-| high consistency | w/o color loss  | PAMA_consistency.pth |
-| high style       | 2x style loss   | PAMA_style.pth       |
-| high content     | 2x content loss | PAMA_content.pth     |
+| high consistency | w/o color loss  | [PAMA_without_color.zip](https://drive.google.com/file/d/1IrggOiutiZceJCrEb24cLnBjeA5I3N1D/view?usp=sharing) |
+| high color       | 1.5x color loss weight | [PAMA_1.5x_color.zip](https://drive.google.com/file/d/1HXet2u_zk2QCVM_z5Llg2bcfvvndabtt/view?usp=sharing)       |
+| high content     | 1.5x content loss weight | [PAMA_1.5x_content.zip](https://drive.google.com/file/d/13m7Lb9xwfG_DVOesuG9PyxDHG4SwqlNt/view?usp=sharing)     |
 
 The checkpionts will be uploaded recently.
 
