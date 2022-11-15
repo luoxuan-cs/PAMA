@@ -6,6 +6,8 @@ PAMA
 
 ​		1/18/2022 New checkpoints are available. (w/o color loss, 1.5x color loss weight, 1.5x content loss weight)
 
+​	  Our paper is accepted by ACCV 2022. We also updated our code, here is the new version of PAMA: https://drive.google.com/drive/folders/1At5XYHW153Pe8A1TgmAbOfwTv3fH7YK1?usp=share_link
+
 
 ## Requirements
 
